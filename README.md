@@ -17,13 +17,21 @@ This project explores the relationship between historical trader behavior and Bi
 ## Folder Structure
 
 ds_TejasBhosale/
+
 ├── notebook_1.ipynb # Main analysis in Google Colab
+
 ├── notebook_2.ipynb # Optional additional notebook
+
 ├── csv_files/ # All CSV files (raw & processed)
+
 │ └── *.csv
+
 ├── outputs/ # Visual outputs (charts, graphs)
+
 │ └── *.png / *.jpg
+
 ├── ds_report.pdf # Summarized insights & explanations
+
 └── README.md # This file
 
 
